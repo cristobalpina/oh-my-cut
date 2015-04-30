@@ -1,0 +1,25 @@
+body{
+	background: url(bg-02.jpg) repeat-y;
+}
+body i{
+	font-size: 25px;
+	color:#111111;
+}
+body i:hover{
+	color:blue;
+}
+.navbar-brand{
+	font-size: 30px;
+}
+footer i{
+	font-size: 14px;
+}
+footer i:hover{
+	color:#111111;
+}
+.sevicios{
+	font-size: 25px;
+}
+img{
+	height: 170px;
+}
